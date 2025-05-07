@@ -1,0 +1,14 @@
+[project]
+name = "ltx13b-blockswap"
+description = ""
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Njbx/ComfyUI-LTX13B-Blockswap"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-LTX13B-Blockswap"
+Icon = ""
